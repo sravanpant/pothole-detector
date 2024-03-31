@@ -43,7 +43,7 @@ const AccidentAreas = () => {
               </ul>
             </div>
             <div>
-              <span className="font-bold">Region - 3:</span>
+              <span className="font-bold">Region - 4:</span>
               <ul>
                 <li>• Goa</li>
                 <li>• Gujurat</li>
@@ -53,7 +53,7 @@ const AccidentAreas = () => {
               </ul>
             </div>
             <div>
-              <span className="font-bold">Region - 4:</span>
+              <span className="font-bold">Region - 9:</span>
               <ul>
                 <li>• Chattisgarh</li>
                 <li>• Jharkhand</li>
